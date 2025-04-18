@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contact-app</string>
+    <string name="contact_image">contact-image</string>
+    <string name="mes_contacts">Mes Contacts</string>
+</resources>
